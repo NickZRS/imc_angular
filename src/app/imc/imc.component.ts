@@ -35,5 +35,5 @@ export class ImcComponent {
               (<HTMLInputElement>document.getElementById("imc")).value = "Obesidade Grau III";
           }
           }
-
+          
 }
